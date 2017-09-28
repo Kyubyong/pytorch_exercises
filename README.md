@@ -1,6 +1,8 @@
 # Pytorch Exercises
 
-Pytorch is one of the most popular deep learning libraries as of 2017. One possible way of familiarizing yourself with it, I think, is to practice with simple quizzes. That's where this project comes in. The outline will be as follows, though it's not fixed. I hope you find it helpful.
+Pytorch is one of the most popular deep learning libraries as of 2017. One possible way of familiarizing yourself with it, I think, is to practice with simple quizzes. That's where this project comes in. The outline will be as follows, though it's not fixed. If you find this helpful, you may like my other repos:<br>
+  * [NumPy exercises](https://github.com/Kyubyong/numpy_exercises)
+  * [TensorFlow exercises](https://github.com/Kyubyong/tensorflow-exercises)
 
 CHAPTER 1. Tensors
   * Tensor Creation ([Quiz](Chapter1_Tensors/Tensor_Creation.ipynb) / [Sol.](Chapter1_Tensors/Tensor_Creation_solution.ipynb))
